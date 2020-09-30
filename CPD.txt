@@ -1,1 +1,12 @@
 
+1.3 - 30-09-2020
+
+Reflection
+
+In todays lesson we looked again at Github and how to clone the file. 
+
+It was nice to be able to talk through problems and brainstorm them with the class to resolution.
+
+We looked at VS Code which I've used briefly before but I'm looking forward to learning how to use this in
+
+more detail so I can be more independent.
