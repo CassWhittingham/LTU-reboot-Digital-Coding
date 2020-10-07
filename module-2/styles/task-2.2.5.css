@@ -1,0 +1,9 @@
+.font-red{ /*selecting a class for some lines or words to change colour and font size*/
+    color: red;
+    font-size: 26px;
+}
+
+#important-heading { /*selecting an id*/
+    font-size: 70px;
+
+}
