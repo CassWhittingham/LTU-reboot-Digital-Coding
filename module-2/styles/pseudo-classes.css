@@ -1,0 +1,24 @@
+a:link {
+    color: #FF0000;
+} /* unvisited link - this is the color the link 
+will show when it has not been clicked before*/
+
+a:visited {
+    color: #00FF00;
+} /* visited link - this is the color the link 
+will show when it has been clicked already*/
+
+a:hover, a:focus {
+    color: #FF00FF;
+} /* colour when mouse hovers over or is selected
+by the keyboard*/
+
+a:active {
+    color: #0000FF;
+} /* selected link*/
+
+/*a:hover must come after a:link and a:visited in the 
+CSS definition to be effective
+
+a:active must come after a:hover in the CSS definition 
+to be effective*/
