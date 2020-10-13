@@ -7,14 +7,23 @@
 </head>
 <body>
     <script>
-        var mealStarter = 7.50;
+        /*var mealStarter = 7.50;
         var mealMain = 18.50;
         var mealPudding = 5.50;
         var mealTotal = mealStarter + mealMain + mealPudding; 
 
         document.write(mealTotal);
 
-        //console.log(fullName);
+       */
+
+        var billBeforeTip = 40.00; //bill value before tip added
+        var tipPercent = 12.5; //in this case this is a percentage so 12.5 percent
+
+        var tipAmount = (tipPercent * billBeforeTip) / 100;
+        //BODMAS = brackets division multiply addition subtraction
+        var receipt = 'The bill plus tip is ' + (billBeforeTip + tipAmount);
+
+         console.log( receipt );
 
     </script>
 
